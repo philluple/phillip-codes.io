@@ -1,4 +1,3 @@
-import React from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import './Navbar.css'; // Import the CSS file
 import './App.css';
