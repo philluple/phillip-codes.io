@@ -1,0 +1,44 @@
+.custom-navbar {
+    background-color: #F5F5F5 !important;
+}
+
+.nav-link-custom {
+    position: relative;
+    color: #0927eb !important;
+    font-family: "RobotoMono", sans-serif;
+    margin-right: 20px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-link-custom:last-child {
+    margin-right: 0;
+}
+
+.nav-link-custom::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    background-color: #0927eb;
+    transition: width 0.3s ease;
+}
+
+.nav-link-custom:hover {
+    color: #6a98f0 !important; /* Lighten the color */
+    transform: scale(1.1); /* Magnify the link */
+}
+
+.nav-link-custom:hover::after {
+    width: 100%; /* Animate underline */
+}
+
+.navbar-brand a img {
+    transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.navbar-brand a img:hover {
+    filter: brightness(1.2); /* Lighten the image */
+    transform: scale(1.1); /* Magnify the image */
+}
