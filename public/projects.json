@@ -1,0 +1,29 @@
+{
+    "Projects": [
+      {
+        "project": "Lion Pool iOS App",
+        "role": "Founder and Full-Stack Developer",
+        "duration": "May 2023 – Present",
+        "responsibilities": [
+          "Designed, developed, and deployed iOS application which facilitates peer ride-sharing arrangements by matching students traveling from same airport at similar times, promoting eco-friendly and cost-effective transportation solutions",
+          "Constructed dynamic frontend using SwiftUI and enhanced experience with Instagram and Uber API",
+          "Engineered backend infrastructure using Node.js with an Express framework hosted on GCP VM and configured using nginx",
+          "Secured and configured lion-pool.com domain obtaining SSL and TLS certificate for HTTPS compliance"
+        ],
+        "image": null
+      },
+      {
+        "project": "StepItUp! iOS App",
+        "role": "Co-Founder and Lead Developer",
+        "duration": "Sept 2023 – Present",
+        "responsibilities": [
+          "Lead team of 6 developers in development of social media app. StepItUp fosters social well-being through interactive competitions and tracking of daily physical activity metrics",
+          "Crafted 40% of app views, and implemented features including friend addition, user search functionalities, and other interactive elements, fostering seamless user-to-user interaction within platform",
+          "Accounted for 75% of commits during app development cycle, demonstrating significant hands-on involvement",
+          "Led deployment process, configuring app for beta testing via TestFlight and distributed to control group while observing important feedback for future releases"
+        ],
+        "image": null
+      }
+    ]
+  }
+  
