@@ -1,7 +1,7 @@
 import { Navbar, Nav, Container } from 'react-bootstrap';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
-import Home from './Home'
-import Projects from './Projects'
+// import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+// import Home from './Home'
+// import Projects from './Projects'
 import '../css/Navbar.css'; // Import the CSS file
 import '../css/App.css';
 import '../css/index.css'; // Import global styles
